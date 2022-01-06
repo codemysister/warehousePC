@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@400;500;700&family=Rye&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 2000px;
+}
+
+/* Navbar */
+.navbar-brand {
+    width: 240px;
+
+    font-family: Rye;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+
+
+.line {
+    height: 10px;
+    width: 100%;
+    background-color: #BD5F5F;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.fas {
+    margin-top: 5px;
+    font-size: 25px;
+    color: #C4C4C4 !important;
+    position: relative !important;
+    margin-right: 20px;
+}
+
+.searchbtn {
+    margin-top: 5px;
+    width: 600px;
+    border-radius: 10px;
+    background-color: #C4C4C4;
+    border-color: white;
+}
+
+.navbar {
+    background-color: #BD5F5F;
+    height: 60px;
+}
+
+/* End Navbar */
+
+/* Hero Image */
+.hero-image {
+    margin-top: 40px;
+    width: 100%;
+    height: 400px;
+    border-radius: 20px;
+    background-image: url('../image/rakitpc.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.subimage1 {
+    width: 100%;
+    height: 150px;
+    background-image: url('../image/intel.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.subimage2 {
+    width: 100%;
+    height: 150px;
+    background-image: url('../image/amd.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* End Hero Image */
+
+
+/* Main Content */
+h4 {
+    font-family: Rye;
+    font-style: normal;
+    font-weight: normal;
+    color: #000000;
+}
+
+h5 {
+    line-height: 30px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #000000;
+}
+
+
+/* End Main Content */
