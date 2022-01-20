@@ -1,5 +1,5 @@
 # Warehouse PC
-Website untuk memperkirakan spesifikasi harga setiap komponen perakitan pc
+Warehouse PC adalah aplikasi berbasis website untuk memperkirakan total harga dari perakitan sebuah PC. 
 
 # Tim Juragan PC
 Project Manager             : Eksa Dwi Mada (20102098)
